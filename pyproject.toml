@@ -18,4 +18,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-# task0 = 'web_programming_laboratories_1.task0:main'
+task0 = 'web_programming_laboratories_1.task0:main'
