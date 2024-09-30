@@ -3,4 +3,4 @@ def main():
 	L = L.split(",")
 	L = map(lambda x: x.strip(), L)
 	L = map(lambda x: x.lower(), L)
-	print(str(list(L)))
+	print(list(L))
